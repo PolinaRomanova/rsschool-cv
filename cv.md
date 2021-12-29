@@ -21,6 +21,7 @@ ___
     * HTML
     * CSS 
     * Git
+    
 ### Code examples 
 
 `function multiply(a, b){
