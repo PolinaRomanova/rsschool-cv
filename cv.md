@@ -21,3 +21,21 @@ ___
     * HTML
     * CSS 
     * Git
+### Code examples 
+
+`function multiply(a, b){
+  return a * b
+}
+`
+
+### Project CV 
+[CV project](https://PolinaRomanova.github.io/rsschool-cv/cv)
+
+### Aducation 
+
+* _Belarusian State Medical University_
+* _From December 2021 studying at JS/FE Pre-School 2022_
+
+### Estimated English level
+
+* _A2_
